@@ -28,3 +28,6 @@ Setelah menjalankan pilot project dan mendapatkan insight atau lesson learned, r
 
 #### Nomor 5: 
 Buatlah storyboard yang menggambarkan kasus di atas secara sistematis.
+![Deskripsi Gambar](https://github.com/amirahzubaidi/Project-AB-Testing/blob/main/Storyboard.png)
+![alt text](?raw=true)
+
