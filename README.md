@@ -1,6 +1,5 @@
 ### Project-AB-Testing
 
-#### Nomor 1:
 #### Current Issue (Permasalahan Saat Ini)
 Beberapa atlet memiliki ACL Risk Score yang tinggi, yang dapat meningkatkan risiko cedera lutut. Bagaimana cara menurunkan risiko ini dengan mengelola Training Hours Per Week, Recovery Days Per Week, dan Fatigue Score secara optimal?
 
